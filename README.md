@@ -1,4 +1,4 @@
-# Accessible Minimalism Hugo Theme
+# Customized Accessible Minimalism Hugo Theme
 
 Minimalist Hugo theme with a penchant for accessibility 
 
